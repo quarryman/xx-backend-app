@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:quarryman/xx-backend-app.git",
+    "project_destination_path": "xx-backend-app",
+    "application_name": "xx",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
